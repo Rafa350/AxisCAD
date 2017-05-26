@@ -1,0 +1,19 @@
+Intrucciones de corte:
+
+Archivo            U  Material      Espesor   Descripcion
+---------------- ---  ------------- --------- ----------------------------------------------------
+PL-01.dxf          2  Aluminio      10mm      Soporte frontal izquierdo eje-y
+                                              Soporte frontal derecho eje-y
+                                              
+PL-02.dxf          2  Aluminio      10mm      Soporte posterior izquierdo eje-y
+                                              Soporte posterior derecho eje-y
+                                              
+PL-02a.dxf         3  Aluminio      5mm       Soporte motor derecho eje-y
+                                              Soporte motor izquierdo eje-y
+                                              Soporte motor eje-x
+
+Notas:
+-Archivos DXF version 2007.
+-U indica unidades.
+-Cortar las piezas de 10mm de la misma plancha para que tengan el mismo error de medida. No puede haber desviacion entre ellas.
+-Todos los taladros pequeños son de 3mm de diametro
