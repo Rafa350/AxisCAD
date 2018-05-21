@@ -6,7 +6,7 @@ PL-04.dxf          1  Aluminio      10mm      Soporte motor X
                                               
 PL-05.dxf          1  Aluminio      10mm      Soporte polea X
                                               
-PL-10.dxf          1  Aluminio      10mm      Patin Y
+PL-10.dxf          2  Aluminio      10mm      Patin Y
 
 Notas:
 -Archivos DXF version 2007.
