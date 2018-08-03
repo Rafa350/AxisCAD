@@ -1,15 +1,15 @@
 A simple Pick and Place machine for placing SMD components
 
 
-Published in Hackaday
+Published in Hackaday.io
 
 
-Foldef structure:
+Folder structure:
 
     /Parts: Individual pieces (Bolts, Bearings, Platens, Profiles, etc)
     /Groups: Basic modules
-    /Assemblies: The three basic assemblies: X axis, Y axis and Z-axis
-    /axis.FCSrd: The AXIS
+    /Assemblies: The basic assemblies (XYZ axis, structure, etc)
+    /axis.FCStd: The AXIS main file.
     
     
 Notes:
