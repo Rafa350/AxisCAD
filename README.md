@@ -1,7 +1,7 @@
 A simple Pick and Place machine for placing SMD components
 
 
-Published in Hackaday.io
+Published in Hackaday.io (https://hackaday.io/project/12166-axis)
 
 
 Folder structure:
